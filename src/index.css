@@ -2,3 +2,7 @@ body {
   margin: 0;
   font-family: "Raleway", sans-serif;
 }
+
+.css-1xrtrg7-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+  color: #000 !important;
+}
