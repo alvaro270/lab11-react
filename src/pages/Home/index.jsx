@@ -33,7 +33,7 @@ const Home = () => {
       <form action="" method="post" onSubmit={handleSendData}>
         <Grid container spacing={3}>
           <Grid item xs={12}>
-            <h1>Home</h1>
+            <h1>Home - developer</h1>
           </Grid>
           <Grid item xs={6}>
             <TextField
